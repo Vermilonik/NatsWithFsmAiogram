@@ -8,3 +8,5 @@
 pip install -r requirements.txt
 python bot.py
 ```
+
+наш чат: https://t.me/nats_py
